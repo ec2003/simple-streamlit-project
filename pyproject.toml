@@ -1,0 +1,16 @@
+[project]
+name = "streamlit-learn"
+version = "0.1.0"
+description = "Heart Disease Prediction App with multiple ML models"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "notebook>=7.5.7",
+    "pandas>=3.0.3",
+    "scikit-learn>=1.9.0",
+    "streamlit>=1.58.0",
+    "xgboost>=3.0.0",
+    "matplotlib>=3.10.0",
+    "seaborn>=0.13.0",
+    "joblib>=1.5.0",
+]
